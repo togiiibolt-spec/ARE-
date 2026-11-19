@@ -1,0 +1,9 @@
+{
+  "whisper":   { "sounds": ["are:whisper"] },
+  "static":    { "sounds": ["are:static"] },
+  "heartbeat": { "sounds": ["are:heartbeat"] },
+  "scream":    { "sounds": ["are:scream"] },
+  "drone":     { "sounds": ["are:drone"] },
+  "knock":     { "sounds": ["are:knock"] },
+  "step":      { "sounds": ["are:step"] }
+}
